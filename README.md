@@ -4,14 +4,8 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
-Software Engineering is the process of 
-a) desiging, 
-b) development, 
-c) testing, 
-d) deployment and 
-e) maintainance of software applications. 
-It is all that revolves around a software. It plays a vital role in the technology industry as software applications are beneficial to various industries in bringing advanced technology to aid human activities e.g ticketing software in the hotel industry
+Explain what software engineering is and discuss its importance in the technology industry. 
+Software Engineering is the process of desiging, development, testing, deployment and maintainance of software applications. It is all that revolves around a software. It plays a vital role in the technology industry as software applications are beneficial to various industries in bringing advanced technology to aid human activities e.g ticketing software in the hotel industry
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 The Birth of Software Engineering (1968): The NATO Software Engineering Conference in 1968 introduced the term software engineering in response to the growing complexity of software systems. This event marked its inception, emphasizing structured methodologies to address development challenges, laying the foundation for modern software engineering practices.
