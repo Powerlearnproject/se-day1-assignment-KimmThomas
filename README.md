@@ -20,7 +20,6 @@ Testing: Conducting various tests to ensure the software meets quality standards
 Deployment: Releasing the software to users or customers.
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall Methodology is a linear, sequential approach to software development, ideal for projects with well-defined, stable requirements. It emphasizes detailed documentation, making it suitable for industries like construction or manufacturing.
 Agile Methodology is an iterative, flexible approach focused on continuous collaboration and adaptability. It’s ideal for projects with evolving requirements, such as software startups or R&D efforts, emphasizing regular feedback and incremental progress.
@@ -34,14 +33,12 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 IDEs streamline development by providing tools for coding, debugging, and testing in one interface, enhancing productivity. Examples include Visual Studio Code, IntelliJ IDEA, and Eclipse.
 VCS enables tracking changes, collaboration, and reverting to previous versions, essential for managing code in teams. Examples include Git (with GitHub or GitLab) and Subversion (SVN).
 
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Scope Creep: Implement strict requirement management, maintain regular client communication, and use a clear change request process to control scope expansion.
 Technical Debt: Prioritize refactoring, conduct code reviews, and allocate sprint time to address technical debt, maintaining code quality and stability.
 Balancing Quality and Deadlines: Adopt Agile methods, set realistic timelines, and integrate continuous testing to ensure high-quality software within tight deadlines.
 Keeping Up with Rapid Technological Changes: Invest in continuous learning through courses, workshops, and developer communities to stay current with fast-evolving technologies.
 Communication Gaps in Teams: Foster clear communication with regular meetings, detailed documentation, and collaborative tools like Slack or Jira to avoid miscommunication.
-
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing: Tests individual components or functions in isolation to ensure they work as expected, catching bugs early in development.
@@ -50,7 +47,6 @@ System Testing: Evaluates the complete software system to ensure it meets all re
 Acceptance Testing: Determines if the software meets user requirements and is ready for release, validating it against acceptance criteria.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering involves designing and crafting effective input prompts to elicit accurate and relevant responses from AI models. It’s crucial for achieving desired outputs, optimizing model performance, and ensuring meaningful interactions by guiding the AI to understand and address specific queries.
